@@ -1,0 +1,21 @@
+
+WINDOWS (Client)	Thu Jul 12 00:17:41 2018
+	INET/inet_error: connect errno = 10061
+
+
+WINDOWS (Client)	Thu Jul 12 00:17:44 2018
+	INET/inet_error: connect errno = 10061
+
+
+WINDOWS (Client)	Tue Jan 08 23:20:13 2019
+	INET/inet_error: read errno = 10053
+
+
+WINDOWS (Client)	Tue Jan 08 23:20:13 2019
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+WINDOWS (Client)	Tue Jan 08 23:20:13 2019
+	INET/inet_error: send errno = 10053
+

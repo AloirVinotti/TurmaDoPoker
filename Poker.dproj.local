@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/08 21:21:25.000.332,=G:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/08 22:07:55.000.800,G:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\UMenuPrincipal.dfm</Transaction>
+    <Transaction>2017/11/08 22:07:55.000.800,G:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\UMenuPrincipal.pas</Transaction>
+    <Transaction>2017/11/08 22:08:10.000.654,G:\Meus Documentos\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Aloir\Poker\Sistema\Fonte\Poker.dproj</Transaction>
+    <Transaction>2017/11/16 21:27:14.000.154,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2017/11/16 21:28:13.000.065,G:\Aloir\Poker\Sistema\Fonte\Cadastro\UCadastroJogares.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2017/11/16 21:28:13.000.065,G:\Aloir\Poker\Sistema\Fonte\Cadastro\UCadastroJogares.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2017/11/17 22:21:16.000.228,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2017/11/17 22:27:21.000.735,=G:\Aloir\Poker\Sistema\Fonte\Unit2.pas</Transaction>
+    <Transaction>2017/11/17 22:29:04.000.101,G:\Aloir\Poker\Sistema\Fonte\DataModulo\UDataModuloGeral.pas=G:\Aloir\Poker\Sistema\Fonte\Unit2.pas</Transaction>
+    <Transaction>2017/11/17 22:29:04.000.101,G:\Aloir\Poker\Sistema\Fonte\DataModulo\UDataModuloGeral.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit2.dfm</Transaction>
+    <Transaction>2017/11/17 22:33:28.000.000,G:\Aloir\Poker\Sistema\Fonte\Cadastro\UCadastroTorneios.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2017/11/17 22:33:28.000.000,G:\Aloir\Poker\Sistema\Fonte\Cadastro\UCadastroTorneios.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 13:18:52.000.147,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 13:23:51.000.578,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Eliminação\UEliminadoPor.dfm</Transaction>
+    <Transaction>2018/02/12 13:23:51.000.578,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Eliminação\UEliminadoPor.pas</Transaction>
+    <Transaction>2018/02/12 15:44:06.000.366,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 16:03:01.000.224,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Cadastro\UCadastroCalendario.pas</Transaction>
+    <Transaction>2018/02/12 16:03:01.000.224,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Cadastro\UCadastroCalendario.dfm</Transaction>
+    <Transaction>2018/02/12 16:29:03.000.827,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 16:54:37.000.440,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Mensalidade\UMensalidade.dfm</Transaction>
+    <Transaction>2018/02/12 16:54:37.000.440,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Mensalidade\UMensalidade.pas</Transaction>
+    <Transaction>2018/02/12 17:59:44.000.511,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 18:32:32.000.769,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Pontuação\UPontuacaoGeral.dfm</Transaction>
+    <Transaction>2018/02/12 18:32:32.000.769,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Pontuação\UPontuacaoGeral.pas</Transaction>
+    <Transaction>2018/02/12 19:57:20.000.988,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 20:35:02.000.848,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Pontuação\UPontosDia.pas</Transaction>
+    <Transaction>2018/02/12 20:35:02.000.848,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Pontuação\UPontosDia.dfm</Transaction>
+    <Transaction>2018/02/12 22:45:36.000.393,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/12 23:00:41.000.506,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Premiação\UPremiacao.dfm</Transaction>
+    <Transaction>2018/02/12 23:00:41.000.506,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Premiação\UPremiacao.pas</Transaction>
+    <Transaction>2018/02/13 10:02:48.000.463,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 10:42:54.000.719,G:\Aloir\Poker\Sistema\Fonte\Mensalidade\URelatorioMensalidade.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 10:42:54.000.719,G:\Aloir\Poker\Sistema\Fonte\Mensalidade\URelatorioMensalidade.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2018/02/13 11:05:09.000.611,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 11:12:13.000.058,G:\Aloir\Poker\Sistema\Fonte\Cadastro\URelatorioCalendario.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2018/02/13 11:12:13.000.058,G:\Aloir\Poker\Sistema\Fonte\Cadastro\URelatorioCalendario.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 13:22:40.000.764,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 13:31:44.000.369,G:\Aloir\Poker\Sistema\Fonte\Relatorio\UFiltroRelatorio.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2018/02/13 13:31:44.000.369,G:\Aloir\Poker\Sistema\Fonte\Relatorio\UFiltroRelatorio.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 13:33:17.000.521,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 13:49:17.000.076,G:\Aloir\Poker\Sistema\Fonte\Premiação\URelatorioPremiacao.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2018/02/13 13:49:17.000.076,G:\Aloir\Poker\Sistema\Fonte\Premiação\URelatorioPremiacao.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 15:01:28.000.828,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 17:53:46.000.894,G:\Aloir\Poker\Sistema\Fonte\Pontuação\URelatorioPontuacaoGeral.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/13 17:53:46.000.894,G:\Aloir\Poker\Sistema\Fonte\Pontuação\URelatorioPontuacaoGeral.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2018/02/20 21:58:32.000.522,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2018/02/20 22:30:59.000.538,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Pontuação\URelatorioPontuacaoDia.pas</Transaction>
+    <Transaction>2018/02/20 22:30:59.000.538,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Pontuação\URelatorioPontuacaoDia.dfm</Transaction>
+    <Transaction>2019/01/08 22:45:33.000.432,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/01/08 22:46:08.000.935,G:\Aloir\Poker\Sistema\Fonte\Utils\UUtil.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/12/17 16:48:43.000.766,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/12/17 17:15:01.000.642,G:\Aloir\Poker\Sistema\Fonte\Pontuação\UPontuacaoExtra.pas=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/12/17 17:15:01.000.642,G:\Aloir\Poker\Sistema\Fonte\Pontuação\UPontuacaoExtra.dfm=G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2020/01/02 22:01:30.000.317,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2020/01/02 22:02:12.000.292,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Eliminação\UEliminacao.dfm</Transaction>
+    <Transaction>2020/01/02 22:02:12.000.292,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Eliminação\UEliminacao.pas</Transaction>
+    <Transaction>2020/01/07 21:02:41.000.411,=G:\Aloir\Poker\Sistema\Fonte\Unit1.pas</Transaction>
+    <Transaction>2020/01/07 21:19:11.000.457,G:\Aloir\Poker\Sistema\Fonte\Unit1.pas=G:\Aloir\Poker\Sistema\Fonte\Configuração\UConfiguracoes.pas</Transaction>
+    <Transaction>2020/01/07 21:19:11.000.457,G:\Aloir\Poker\Sistema\Fonte\Unit1.dfm=G:\Aloir\Poker\Sistema\Fonte\Configuração\UConfiguracoes.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
